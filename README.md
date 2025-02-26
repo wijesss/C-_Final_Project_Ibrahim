@@ -1,6 +1,6 @@
 # C-_Final_Project_Ibrahim
 
-Banking System in C++ (Console-Based)
+Banking System in C++ 
 
 Overview
 
